@@ -196,7 +196,7 @@
             return {
                 form: {
                     name: '',
-                    sexy:'',
+                    sex:'',
                     native:'',
                     school:'',
                     discipline:'',
