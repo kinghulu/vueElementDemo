@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/********************
+ * 摩比教师选聘专培考核系统
+ * author:yaohuitao@100tal.com
+ * 2016-10-13
+ * ******************/
+body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre, form,fieldset,input,textarea,p,blockquote,th,td,label {  padding: 0;  margin: 0;  }
+header, footer, nav, section, article, aside,figure{ display:block; margin:0; padding:0;}/*html5初始化*/
+table{border-collapse: collapse; border-spacing: 0;  }
+fieldset,img { border: 0;  }
+address,caption,cite,code,dfn,th,var {  font-weight: normal;  font-style: normal;  }
+ol,ul {  list-style: none;  }
+select, input, select, img, label{  vertical-align: middle;  }
+a{ text-decoration: none;}
+.clearfix:before,
+.clearfix:after {content: ".";display: block;height: 0;visibility: hidden;}
+.clearfix:after {clear: both;}
+.clearfix {zoom: 1;} /* IE < 8 */
+html{overflow-x: hidden;}
+html,body{overflow-x: hidden;font-family:Microsoft Yahei; color:#333; background:#d2e2f9; line-height: 200%;}
+
+
+
+
