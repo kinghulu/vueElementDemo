@@ -32,7 +32,7 @@
                                             <el-option label="男" value="man"></el-option>
                                             <el-option label="女" value="woman"></el-option>
                                         </el-select>
-                                        <!--<select v-model="form.sexy" class="el-input__inner" placeholder="性别">
+                                        <!--<select v-model="form.sex" class="el-input__inner" placeholder="性别">
                                             <option value="">请选择性别</option>
                                             <option value="man">男</option>
                                             <option value="woman">女</option>
@@ -217,7 +217,7 @@
                 rules: {
                     name: [
                         {required: true, message: '请输入活动姓名', trigger: 'blur'}
-                    ],sexy:[
+                    ],sex:[
                         {required: true, message: '请选择性别', trigger: 'blur'}
                     ]
                 }
